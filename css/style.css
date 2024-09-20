@@ -1,0 +1,12 @@
+.myimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.myimage button{
+    width: 200px;
+}
+.myimage img{
+    width: 200px;
+}
